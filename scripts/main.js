@@ -26,7 +26,7 @@ if (!localStorage.getItem("name")) {
     setUserName();
 } else {
     const name = localStorage.getItem("name");
-    head.textContent = "やっほー";
+    head.textContent = `やあ、${name}`;
 }
 
 button.onclick = setUserName;
