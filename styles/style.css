@@ -1,0 +1,33 @@
+html {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #24b97441;
+}
+
+body {
+    width: 512px;
+    margin: 0 auto;
+    background-color: #3f24b941;
+    padding: 0 24px 24px 24px;
+    border: 5px solid #b924b173;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+img {
+    display: block;
+    width: 512px;
+    margin: 0 auto;
+}
+
+li,
+p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
